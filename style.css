@@ -1,0 +1,70 @@
+:root {
+    --primary-dark: #4d444a;
+    --secondary-light: #ecb1b5;
+}
+
+body {
+    background-color: var(--primary-dark);
+    color: var(--secondary-light);
+}
+
+h1 {
+    text-align: center;
+    margin-top: 100px;
+  }
+  
+  .container {
+    width: 300px;
+    margin: auto auto;
+  }
+  
+  label,
+  input {
+    display: block;
+    margin-top: 0.5rem;
+    width: 100%;
+  }
+  
+  label {
+    font-weight: 500;
+    font-size: 1.3rem;
+  }
+  
+  input {
+    border-radius: 5px;
+    padding: 0.5rem;
+    border: transparent;
+    font-size: large;
+    margin: 1rem 0;
+  }
+  
+  #check-number {
+    margin: 0.5rem auto;
+    display: block;
+  }
+  
+  #check-number {
+    background-color: var(--primary-dark);
+    border: 2px solid var(--secondary-light);
+    color: var(--primary-green);
+    padding: 0.4rem 1rem;
+    border-radius: 0.5rem;
+    font-size: large;
+    cursor: pointer;
+    outline: var(--secondary-light);
+    margin: auto;
+    display: block;
+  }
+  
+  #output-box {
+    display: block;
+    margin: auto;
+    margin-top: 2rem;
+    width: 100%;
+    text-align: center;
+    padding: 0.5rem;
+    font-size: x-large;
+    border-color: var(--secondary-light);
+    border-width: medium;
+    border-radius: 5px;
+  }
