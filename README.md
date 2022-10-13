@@ -1,2 +1,2 @@
 # luckxbirthday
-App which checks whether your birthday is a palindrome birthday or not.
+A website which can help you to check whether your birthday is lucky or not.
