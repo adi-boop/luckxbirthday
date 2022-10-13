@@ -1,1 +1,2 @@
-# A website which helps you to learn about triangles.
+# luckxbirthday
+App which checks whether your birthday is a palindrome birthday or not.
